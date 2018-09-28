@@ -21,19 +21,18 @@
     </div>
     <div id="contenedor">
       <ul class="cube">
-        <li class="cara"><%= theme.logo_title %></li>
-        <li class="cara"></li>
-        <li class="cara"></li>
-        <li class="cara"></li>
-        <li class="cara"></li>
-        <li class="cara"></li>
+        <li class="cara"><%= theme.logo_title1 %></li>
+        <li class="cara"><%= theme.logo_title2 %></li>
+        <li class="cara"><%= theme.logo_title3 %></li>
+        <li class="cara"><%= theme.logo_title4 %></li>
+        <li class="cara"><%= theme.logo_title5 %></li>
+        <li class="cara"><%= theme.logo_title6 %></li>
       </ul>
     </div>
     <nav id="main-nav">
       <% for (var i in theme.menu){ %>
         <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
       <% } %>
-      <a class="main-nav-link st-search-show-outputs"><%= __('search') %></a>
     </nav>
   </div>
 </header>

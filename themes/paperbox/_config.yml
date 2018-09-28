@@ -2,11 +2,17 @@
 menu:
   Home: /
   Archives: /archives
+  Categories: /categories
   About: /about
 rss: /atom.xml
 github: https://github.com/myname
-logo_title: MyLogo
-blog_title: My Blog
+logo_title1: Cork
+logo_title2: Cork
+logo_title3: Gaa
+logo_title4: Gaa
+logo_title5: Results
+logo_title6: Results
+blog_title: All News in 'V'|Cork Gaa Results
 
 # Content
 excerpt_link: Read More
@@ -23,7 +29,7 @@ widgets:
 # Miscellaneous
 wx_block: false
 google_analytics:
-favicon:
+favicon: /img/favicon.png
 twitter:
 google_plus:
 fb_admins:
