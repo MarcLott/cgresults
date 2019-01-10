@@ -13,19 +13,19 @@ Quitting cigarettes isn’t easy – the omnipresent stress in daily life is alw
 First, let’s start with the unboxing. When opening the package, we can see the white big cardboard box with only product image and brand name on the top, very neat and clear. Uncover the box, there is a sheeting with “BREAK IT NOW” written on it. Under the sheeting are the device and 2 pods with two flavors. One is tobacco, the other is mint. The instruction and USB cable are kept under the devices.
 The device is made of aluminum alloy with a matte appearance, and its design is 
 
-![](/images/9.jpg)
+![](/img/9.jpg)
 
 <!-- more -->
 
 really exquisite and portable. Put the pod into the device, you can feel the magnet connection between the device and pod, which also make it easy to replace. The pod contains 2 ml of e-liquid and you can see the remains of the e-juice through the transparent plastic pod. And the charge port is under the device. According to the information from the website, the battery is 350mAh and when fully charged, it is enough for 150-200 puffs, far surpassing other pod brands of this size. No button or switch on the device. All in all, it is very simple and easy to carry for vape beginners. 
 
-![](/images/10.jpg)
+![](/img/10.jpg)
 
 #### User Experience
 
 Put the mint flavor pod into the device, surprisingly I found that the first draw is instant and very smooth, no popping sound. Honestly, I am very content with its cloud and this flavor. And the mint flavor gives a soft throat hit and sweeps across my body with fresh mint fragrance. It’s not strong but refreshing. I can feel the nicotine satisfaction that is very similar to the ordinary cigarette. Unlike the mint or menthol juice flavor of other brands, it is not those artificial mint flavors but in a more natural and long-lasting way. Later I have tried tobacco pod, it is the best tobacco flavor I’ve ever reviewed. It tastes like cigar. If you are the cigar hobbyist and want to find an alternative, this flavor can be a good choice. Even after I finish vaping, the smell is very little and not choking at all. And no leaking problem is found during vaping. What makes it more interesting is that its vapor seems safe for the smoke detector. But using Relx just below the smoke alarm is still not recommended. From my point of view, it is a good starter kit for those vape beginners who want to quit smoking but knows nothing about vaping.
 
-![](/images/11.jpg)
+![](/img/11.jpg)
 
 #### Prices
 
