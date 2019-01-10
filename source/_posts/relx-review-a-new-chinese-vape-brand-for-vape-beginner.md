@@ -2,6 +2,9 @@
 title: Relx Review A New Chinese Vape Brand for Vape Beginner 
 date: 2019-01-09 15:11:00
 category: beginner tips
+tags:
+    - beginner
+    - research
 ---
 
 ### A Cost-Effective Vape for Cigarette Alternative
