@@ -1,7 +1,7 @@
 ---
 title: India - The Federal Government of Tamil Nadu bans e-cigarettes
 date: 2018-8-17 08:20:00
-category: Politics
+category: politics
 tags:
 	- e-cigarette
 ---
