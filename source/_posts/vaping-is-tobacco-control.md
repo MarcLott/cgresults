@@ -1,7 +1,7 @@
 ---
 title: Vaping is Tobacco Control
 date: 2018-7-29 09:00:00
-category: Vape Community
+category: vape community
 tags:
 	- tobacco
 	- control
