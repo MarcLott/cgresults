@@ -7,7 +7,7 @@ tags:
 	- control
 ---
 
-![](/img/9.jpg)
+![](/img/temp.jpg)
 
 The 2017 National Health Interview Study, which informs the CDC countrywide smoking estimates, seems to confirm that unlike current public and media speculation, vaping rates are still on decline.
 
