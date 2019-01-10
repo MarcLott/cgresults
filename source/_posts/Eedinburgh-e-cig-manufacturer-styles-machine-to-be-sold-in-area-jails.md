@@ -1,7 +1,7 @@
 ---
 title: Edinburgh E-Cig Manufacturer Styles Machine to be Sold in Area Jails
 date: 2018-9-13 13:50:00
-category: Into Vape Business
+category: into vape business
 tags:
 	- machine
 	- e-cigarette
