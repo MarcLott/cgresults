@@ -1,7 +1,7 @@
 ---
 title: Latest CDC Data Indicate That Vaping Rates Are Still Declining
 date: 2018-8-10 09:40:00
-category: Science Within Vape 
+category: science within vape 
 tags:
 	- health
 	- control
