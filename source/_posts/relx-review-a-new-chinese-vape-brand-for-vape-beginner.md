@@ -1,7 +1,7 @@
 ---
 title: Relx Review A New Chinese Vape Brand for Vape Beginner 
 date: 2019-01-09 15:11:00
-category: beginner tips
+category: beginner guide
 tags:
     - beginner
     - research
