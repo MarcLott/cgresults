@@ -1,7 +1,7 @@
 ---
 title: Vaping 101
 date: 2018-8-19 08:00:00
-category: Beginner Guide
+category: beginner guide
 tags:
 	- beginner
 	- e-cigarette
