@@ -1,7 +1,7 @@
 ---
 title: The UAE Considering Lifting The Ban On E-Cigarettes
 date: 2018-8-28 12:30:00
-category: Politics
+category: politics
 tags:
 	- e-cigarette
 	- tax
