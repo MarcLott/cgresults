@@ -1,7 +1,7 @@
 ---
-title: Flavour Bans vs. Tobacco 21
+title: Flavour Bans vs Tobacco 21
 date: 2018-9-22 10:00:00
-category: Vape Community
+category: vape community
 ---
 
 ![](/img/3.jpg)
