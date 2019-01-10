@@ -1,7 +1,7 @@
 ---
 title: Vaping Testimonials - Tell The Story
 date: 2018-7-13 10:00:00
-category: Vape Community
+category: vape community
 tags:
 	- testimoni
 ---
