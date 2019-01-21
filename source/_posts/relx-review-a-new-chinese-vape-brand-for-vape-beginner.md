@@ -36,4 +36,4 @@ On its official website, the available colors for starter kit include pink, blac
 
 #### Technology
 
-Through the review, Relx is indeed a cost-effective cigarette alternative. The heating coil inside the device is the [new vaping technology of FEELM](www.feelmtech.com/), a famous e-cigar technology company owned by Shenzhen Smoore Technology. It has recently won Golden Leaf Award and cooperated with other renowned foreign vape brands like Hexa and Dot Vape Kit. Compared to most of the prefilled pod available on the market, it has tackled most of the commonly-seen problems. A new good product that worth a try.
+Through the review, Relx is indeed a cost-effective cigarette alternative. The heating coil inside the device is the [new vaping technology of FEELM](http://www.feelmtech.com/), a famous e-cigar technology company owned by Shenzhen Smoore Technology. It has recently won Golden Leaf Award and cooperated with other renowned foreign vape brands like Hexa and Dot Vape Kit. Compared to most of the prefilled pod available on the market, it has tackled most of the commonly-seen problems. A new good product that worth a try.
